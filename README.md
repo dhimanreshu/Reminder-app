@@ -13,12 +13,17 @@ Features:
  - It allow to do delete the account.
 
   Tech Stack
-   ==========
+  ==========
 
    Python, Django, HTML ,CSS, JAVASCRIPT
 
-   Images
-   ========== 
+  Working Video
+  ==========
+ 
+  https://github.com/dhimanreshu/Reminder-app/assets/106768404/aa7b82b6-8d51-4f99-8191-91d95cce464d
+ 
+  Images
+  ========== 
  - Homepage
      
    ![Screenshot 2024-05-09 180834](https://github.com/dhimanreshu/Reminder-app/assets/106768404/5b3daad9-1686-4afe-bff2-8aee9b7f9b6e.png)
