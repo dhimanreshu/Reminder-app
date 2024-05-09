@@ -42,12 +42,12 @@ Features:
  - View thought
 
     
-  ![Screenshot 2024-05-09 181205](https://github.com/dhimanreshu/Reminder-app/assets/106768404/267516d9-9a92-4c28-adc7-fbde3e4accb5.png)
+   ![Screenshot 2024-05-09 181205](https://github.com/dhimanreshu/Reminder-app/assets/106768404/267516d9-9a92-4c28-adc7-fbde3e4accb5.png)
 
 
  - Profile management
- - 
-  ![Screenshot 2024-05-09 181241](https://github.com/dhimanreshu/Reminder-app/assets/106768404/14ca0ade-af6b-4dd8-8f22-d49510179d17.png)
+   
+   ![Screenshot 2024-05-09 181241](https://github.com/dhimanreshu/Reminder-app/assets/106768404/14ca0ade-af6b-4dd8-8f22-d49510179d17.png)
 
 
     
