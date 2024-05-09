@@ -25,7 +25,7 @@ Features:
 
   - Registration Page
 
-   ![Screenshot 2024-05-09 180928](https://github.com/dhimanreshu/Reminder-app/assets/106768404/9020b9ee-0d29-48af-9248-ec60ccb935ad.png)
+    ![Screenshot 2024-05-09 180928](https://github.com/dhimanreshu/Reminder-app/assets/106768404/9020b9ee-0d29-48af-9248-ec60ccb935ad.png)
 
  - Login Page
 
